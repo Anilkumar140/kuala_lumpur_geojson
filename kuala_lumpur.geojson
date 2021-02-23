@@ -1,0 +1,59 @@
+{
+  "statename": {},
+  "distance": "0.000",
+  "elevation": "35",
+  "state": "MY",
+  "latt": "3.13871",
+  "city": "Malaysia",
+  "prov": "MY",
+  "intersection": {
+    "distance": "0.017",
+    "xlat": "3.1386",
+    "xlon": "101.682",
+    "street2": "Kuala Lumpur",
+    "street1": "Jalan Persekutuan"
+  },
+  "geocode": "KUL-XLTCO",
+  "geonumber": "5066502714742",
+  "country": "Malaysia",
+  "stnumber": "1",
+  "staddress": "Kuala Lumpur",
+  "inlatt": "3.13871",
+  "alt": {
+    "loc": {
+      "staddress": "Kuala Lumpur",
+      "stnumber": "1",
+      "postal": {},
+      "latt": "3.13871",
+      "city": "Malaysia",
+      "prov": "MY",
+      "longt": "101.68210",
+      "class": {}
+    }
+  },
+  "timezone": "Asia/Kuala_Lumpur",
+  "region": {},
+  "postal": "50566",
+  "poi": {
+    "poilat": "3.13444",
+    "opening_hours": "24/7",
+    "name_zh": "特拉华路警局",
+    "name": "Balai Polis Travers",
+    "phone": "03 77270140",
+    "addr_street": "Jalan Selangor",
+    "addr_postcode": "50480",
+    "amenity": "police",
+    "poilon": "101.68369",
+    "addr_city": "Kuala Lumpur",
+    "addr_housenumber": "1",
+    "building": "yes",
+    "id": "478353578",
+    "poidist": "0.507"
+  },
+  "longt": "101.68210",
+  "remaining_credits": {},
+  "confidence": "1",
+  "inlongt": "101.68210",
+  "class": {},
+  "altgeocode": "LAKEGARDENS-XLTCO"
+}
